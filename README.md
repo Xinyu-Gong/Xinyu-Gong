@@ -10,7 +10,7 @@ For more details about my research and publications, please visit my personal we
 
 - **Multimodal Remote Sensing Image Registration via Radiometric-Agnostic Geometric Discrepancy Estimation**  
   **Xinyu Gong**, Faling Chen, Yunpeng Liu, Zelin Shi · *IEEE JSTARS*, 2026.  
-  JCR Q1 (Remote Sensing, 2025) · IF 6.3 (2025) · [Paper](https://doi.org/10.1109/JSTARS.2026.3726024) · [Code](https://github.com/Xinyu-Gong/RAGDE)
+  JCR Q1 · IF 6.3 · [Paper](https://doi.org/10.1109/JSTARS.2026.3726024) · [Code](https://github.com/Xinyu-Gong/RAGDE)
 
 - **Visible and infrared image registration based on deep geometric similarity evaluation**  
-  **Xinyu Gong**, Faling Chen, Yunpeng Liu · *GIIC 2026*, Proc. SPIE 14322, 143222H. · [Paper](https://doi.org/10.1117/12.3120608)
+  **Xinyu Gong**, Faling Chen, Yunpeng Liu · *GIIC 2026*, Proc. SPIE 14322. · [Paper](https://doi.org/10.1117/12.3120608)
